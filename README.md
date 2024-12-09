@@ -1,14 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Derson</h1>
+<h1 align="center">Hello 👋, I'm Anderson</h1>
 
 <p align="center">
-  I am a JavaScript developer specializing in the MERN stack, building robust and modern web applications.
+  I am a JavaScript developer specializing in the MERN stack and C#, building robust and modern web applications, software.
 </p>
 
 - 🌱 I’m currently learning **React and TypeScript**.
 
-- 🔭 I’m currently working on exciting web projects using React and Node.js.
+- 🔭 I’m currently working on exciting web projects using MERN.
 
 ---
 
@@ -43,6 +43,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="40" height="40"/>
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" alt="CSS3" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;" >
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="40" height="40"/>
   </a>
@@ -54,6 +57,9 @@
   </a>
 <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+<a href="https://expressjs.com/" target="_blank" style="text-decoration: none;" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap.svg" alt="Express.js" width="40" height="40"/>
   </a>
 </p>
 
