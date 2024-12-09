@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
 <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" alt="Express.js" width="40" height="40"/>
   </a>
 </p>
 
