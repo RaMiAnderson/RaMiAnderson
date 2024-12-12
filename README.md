@@ -81,7 +81,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.codingame.com/profile/f2b4dc9826c46800d2495d68a4e42c0b0017665" target="_blank">
-    <img align="center" src="https://static.codingame.com/assets/favicon_32_32.61e066ad.ico" alt="Codingame" height="30" width="40" />
+    <img align="center" src="https://static.codingame.com/assets/favicon_32_32.61e066ad.ico" alt="Codingame" height="30" width="30" />
   </a>
   <a href="https://web.facebook.com/profile.php?id=100079532394319" target="_blank">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
