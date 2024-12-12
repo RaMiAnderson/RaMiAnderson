@@ -3,10 +3,10 @@
 <h1 align="center">Hello 👋, I'm Anderson</h1>
 
 <p align="center">
-  I am a JavaScript developer specializing in the MERN stack and C#, building robust and modern web applications, software.
+  I am a JavaScript developer with expertise in the MERN stack and C#, specializing in the development of robust and modern web applications and software.
 </p>
 
-- 🌱 I’m currently learning **React and TypeScript**.
+-  I’m currently learning **React and TypeScript**.
 
 - 🔭 I’m currently working on exciting web projects using MERN.
 
@@ -15,7 +15,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaMiAnderson&show_icons=true&locale=en" alt="RaMiAnderson's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaMiAnderson&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 ---
