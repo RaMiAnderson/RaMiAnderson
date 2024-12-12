@@ -67,6 +67,9 @@
   <a href="https://reactrouter.com/" target="_blank" style="text-decoration: none;" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="React-Router" width="40" height="40"/>
   </a>
+  <a href="https://axios-http.com/docs/intro" target="_blank" style="text-decoration: none;" >
+    <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="Axios" width="40" height="40"/>
+  </a>
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" style="text-decoration: none;" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
