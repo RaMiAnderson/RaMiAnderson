@@ -80,8 +80,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://web.facebook.com/profile.php?id=100010172414862" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://web.facebook.com/profile.php?id=100079532394319" target="_blank">
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
