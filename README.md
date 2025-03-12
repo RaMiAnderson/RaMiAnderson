@@ -36,7 +36,7 @@
 
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaMiAnderson&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true&exclude_repo=github-readme-stats,RaMiAnderson.github.io&&langs_count=10" alt="RaMiAnderson's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaMiAnderson&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true&exclude_repo=github-readme-stats,RaMiAnderson.github.io&&langs_count=8&size_weight=0.5&count_weight=0.5" alt="RaMiAnderson's most used languages" />
 </p>
 
 ---
