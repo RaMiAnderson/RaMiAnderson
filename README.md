@@ -15,7 +15,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=RaMiAnderson&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaMiAnderson&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?time_range=all_time&include_private=true&username=RaMiAnderson&compact=true&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true&exclude_repo=github-readme-stats,RaMiAnderson.github.io&langs_count=8&size_weight=0.5&count_weight=0.5" alt="RaMiAnderson's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?time_range=all_time&include_private=true&username=RaMiAnderson&compact=true&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true&exclude_repo=github-readme-stats,RaMiAnderson.github.io&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html" alt="RaMiAnderson's most used languages" />
 </p>
 
 ---
