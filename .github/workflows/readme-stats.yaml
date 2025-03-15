@@ -1,0 +1,51 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: read
+  pull-requests: read
+  actions: read
+  packages: read
+  statuses: read
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository content
+      uses: actions/checkout@v3
+
+    - name: Configure git
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+    - name: Generate top languages stats
+      env:
+        GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+      run: |
+        curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=Heriiniiaina&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true&token=${GH_STATS_TOKEN}"
+
+    - name: Add changes
+      run: |
+        git add top-langs.svg
+
+    - name: Commit changes
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "Update top-langs.svg"
+        else
+          echo "No changes to commit"
+        fi
+
+    - name: Push changes
+      env:
+        GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+      run: |
+        git push "https://${GH_STATS_TOKEN}@github.com/Heriiniiaina/Heriiniiaina.git" HEAD:main
