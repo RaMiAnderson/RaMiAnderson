@@ -15,7 +15,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img align="center" src="https://api.githubtrends.io/user/svg/RaMiAnderson/langs?time_range=all_time&include_private=true&compact=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaMiAnderson&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 ---
