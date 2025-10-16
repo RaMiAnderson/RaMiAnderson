@@ -36,7 +36,7 @@
 
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats-six-chi-52.vercel.app/api/top-langs?time_range=all_time&include_private=true&username=RaMiAnderson&compact=true&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true&exclude_repo=github-readme-stats,RaMiAnderson.github.io&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,batchfile,php,scss,ejs,less" alt="RaMiAnderson's most used languages" />
+  <img align="center" src="https://github-readme-stats-six-chi-52.vercel.app/api/top-langs?time_range=all_time&include_private=true&username=RaMiAnderson&compact=true&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true&exclude_repo=github-readme-stats,RaMiAnderson.github.io&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,batchfile,php,scss,ejs,less,roff" alt="RaMiAnderson's most used languages" />
 </p>
 
 ---
