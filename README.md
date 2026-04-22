@@ -3,12 +3,11 @@
 <h1 align="center">RM. Anderson</h1>
 
 <p align="center">
-  I am a JavaScript developer with expertise in the MERN stack and C#, specializing in the development of robust and modern web applications and software.
 </p>
 
--  I’m currently learning **React and TypeScript**.
 
-- 🔭 I’m currently working on exciting web projects using MERN.
+
+-
 
 ---
 
