@@ -40,48 +40,6 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a> 
-  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://bulma.io/" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="Bulma" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Bulma" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://reactrouter.com/" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="React-Router" width="40" height="40"/>
-  </a>
-  <a href="https://axios-http.com/docs/intro" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="Axios" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodemon.io/" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/fr-fr" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-<a href="https://expressjs.com/" target="_blank" style="text-decoration: none;" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-
 </p>
 
 ---
