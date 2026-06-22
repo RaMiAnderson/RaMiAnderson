@@ -3,7 +3,9 @@
 <h1 align="center">RM. Anderson</h1>
 
 <p align="center">
-  My Portfolio : <a href="anderson-ramena.vercel.app" target="_blank">anderson-ramena.vercel.app</a>
+  My Portfolio : <a href="https://anderson-ramena.vercel.app" target="_blank" rel="noopener noreferrer">
+    anderson-ramena.vercel.app
+  </a>
 </p>
 
 
